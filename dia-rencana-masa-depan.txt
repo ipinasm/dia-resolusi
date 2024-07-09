@@ -4,6 +4,9 @@ setelah saya udah bisa ngoding saya mau bembuat web
 - jual gelang
 * web perhitungan
 - beli gelang
+-jual cenala
+* web perhitungan
+-beli barang
 * web denah 
 * deta
 bekerja di tenpat yang full seyum dan gajih lumayan
